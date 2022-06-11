@@ -1,4 +1,5 @@
 # My_Projects
-Tic Tac Toe
-Sudoku
-Scientific Calculator
+
+1. Tic Tac Toe
+2. Sudoku
+3. Scientific Calculator
